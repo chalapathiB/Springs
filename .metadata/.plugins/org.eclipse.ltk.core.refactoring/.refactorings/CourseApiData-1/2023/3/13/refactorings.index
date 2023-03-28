@@ -1,0 +1,63 @@
+1679897570253	Move compilation unit
+1679908221240	Copy compilation units
+1679908229857	Delete element
+1679908519936	Rename package 'com.example'
+1679908562607	Delete element
+1679908615175	Move compilation unit
+1679908661110	Copy package
+1679908768434	Rename type 'Topic'
+1679908783736	Rename type 'TopicController'
+1679908833094	Rename type 'TopicRepository'
+1679908847139	Rename type 'TopicService'
+1679908898375	Rename type 'Courseontroller'
+1679912499673	Encapsulate field 'topic'
+1679915953587	Copy compilation unit
+1679916012506	Move compilation unit
+1679916027004	Delete element
+1679916033091	Delete element
+1679916080494	Move compilation unit
+1679917662824	Move compilation unit
+1679917681071	Rename package 'com.example.Topic'
+1679917699622	Rename package 'com.example.Course'
+1679918608791	Move compilation unit
+1679918628480	Copy package
+1679918651905	Move compilation unit
+1679918658971	Move compilation unit
+1679918667221	Move compilation unit
+1679918674030	Move compilation unit
+1679918681581	Delete element
+1679918686287	Delete element
+1679919187552	Move compilation unit
+1679919213236	Move compilation unit
+1679919259189	Move compilation unit
+1679919267346	Move compilation unit
+1679919313416	Move compilation unit
+1679919321806	Move compilation unit
+1679919371488	Move compilation unit
+1679919378531	Move compilation unit
+1679919393692	Rename package 'com.example.Spring.Course'
+1679919794932	Copy compilation unit
+1679919809364	Delete element
+1679919828781	Rename package 'com.example.Spring.App'
+1679919889438	Move compilation unit
+1679919896999	Delete element
+1679919991919	Copy compilation unit
+1679920031754	Delete element
+1679920210300	Move compilation unit
+1679920218429	Move compilation unit
+1679920227444	Move compilation unit
+1679920239775	Move compilation unit
+1679920272351	Move compilation unit
+1679920277334	Move compilation unit
+1679920283665	Move compilation unit
+1679920289790	Move compilation unit
+1679920300581	Delete element
+1679920304927	Delete element
+1679920308296	Delete element
+1679920311642	Delete element
+1679920355540	Rename package 'com.example.Spring.Topic'
+1679920366521	Move compilation unit
+1679920533429	Move compilation unit
+1679920796188	Delete element
+1679920817016	Move compilation unit
+1679920894441	Delete element

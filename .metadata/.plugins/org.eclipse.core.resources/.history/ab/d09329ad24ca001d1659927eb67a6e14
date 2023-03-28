@@ -1,0 +1,5 @@
+package com.example.demo1.tools;
+
+public Interface TopicRepository extends C {
+
+}

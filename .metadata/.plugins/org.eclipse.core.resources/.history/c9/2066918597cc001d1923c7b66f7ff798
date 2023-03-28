@@ -1,0 +1,9 @@
+package com.example.Spring.Topic.copy;
+import com.example.Spring.Course.*;
+import org.springframework.data.repository.CrudRepository;
+
+public interface TopicRepository extends CrudRepository<Topic,String>
+{
+	
+
+}
